@@ -1,2 +1,2 @@
-# Blog
-Un blog para el curso de git y github de platzi
+#portafolio personal
+este es un  un proyecto de estudio de git y github de platzi
